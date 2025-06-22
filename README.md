@@ -1,4 +1,4 @@
-![Nick](/resume/me1.png)
+![Nick](https://nick-biedlingmaier.github.io/resume/me1.png)
 
 **Resume for Nicholas (Nick) Biedlingmaier. IT professional, leader, and mentor**
 
