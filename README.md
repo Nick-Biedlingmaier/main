@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nick-biedlingmaier.github.io/resume/me1.png" width="1000x1000" />
+  <img src="https://nick-biedlingmaier.github.io/resume/me1.png" width="600x600" />
 </p>
 
 <h2 align="center">Hello, I'm Nick 👋</h2>
