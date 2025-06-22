@@ -17,13 +17,13 @@
 </p>
 
 <p align="center">
-Please click the link below to have a look at my resume. If you think I can be helpful to your organization, my Linkedin page is below. Let's Connect!
+Please click the link below to have a look at my resume. If you think I can be helpful to your organization, my LinkedIn page is below. Let's Connect!
 
 <p align="center">
 Resume: https://nick-biedlingmaier.github.io/resume/
 
 <p align="center">
-Linkedin: https://www.linkedin.com/in/nick-biedlingmaier-90504457/
+LinkedIn: https://www.linkedin.com/in/nick-biedlingmaier-90504457/
 
 <p align="center">
 Thanks for stopping by!
