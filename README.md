@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/resume/me1.png" width="600x600" />
+  <img src="/resume/headshot.png" width="600x600" />
 </p>
 
 <h2 align="center">Hello, I'm Nick 👋</h2>
