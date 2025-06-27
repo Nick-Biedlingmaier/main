@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/headshot.png" width="600x600" />
+  <img src="/headshot.png" width="480x480" />
 </p>
 
 <h2 align="center">Hello, I'm Nick 👋</h2>
