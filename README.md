@@ -20,7 +20,10 @@
 Please click the link below to have a look at my resume. If you think I can be helpful to your organization, my LinkedIn page is below. Let's Connect!
 
 <p align="center">
-Resume: https://nick-biedlingmaier.github.io/resume/
+Technican-Tailored Resume: https://nick-biedlingmaier.github.io/resume/
+
+<p align="center">
+Leadership-Tailored Resume: https://nick-biedlingmaier.github.io/resume/
 
 <p align="center">
 LinkedIn: https://www.linkedin.com/in/nick-biedlingmaier-90504457/
