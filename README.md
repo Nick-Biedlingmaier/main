@@ -1,1 +1,1 @@
-<center>**WORK IN PROGRESS**</center>
+**WORK IN PROGRESS**
