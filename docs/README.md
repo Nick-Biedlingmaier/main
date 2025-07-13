@@ -8,5 +8,5 @@ Thank you for your patience while I build out my site!
 
 ## Resumes
 
-- [Individual Contributor Resume](./NickBiedlingmaier_IC.pdf)  
-- [Leadership Role Resume](./NickBiedlingmaier_Lead.pdf)
+[Individual Contributor Resume](https://github.com/Nick-Biedlingmaier/main/raw/main/docs/NickBiedlingmaier_IC.pdf)  
+[Leadership Role Resume](https://github.com/Nick-Biedlingmaier/main/raw/main/docs/NickBiedlingmaier_Lead.pdf)
